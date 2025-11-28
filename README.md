@@ -41,7 +41,7 @@ https://www.utest.com/
 
 # Education and courses
 
-QA Foundation/Practice by SamaSobiTester
+QA Foundation/Practice by SamaSobiTester - 09.2025 to 11.2025
 
 # FAVORITE BLOGS, YOUTUBE CHANNELS ABOUT TESTING
 
