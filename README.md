@@ -40,6 +40,8 @@ https://docs.google.com/document/d/11Xh0TvfeLiP6S2w770TmzQv_YColYZSykv6AnEdH40g/
 
 https://www.utest.com/
 
+https://docs.google.com/document/d/1-dyrEZzjKIhZyhzShILwvxmn9-E0IiDCo6wazPyk8t0/edit?tab=t.0#heading=h.c84c3cpqupu3
+
 # Education and courses
 
 QA Foundation/Practice by SamaSobiTester - 09.2025 to 11.2025
