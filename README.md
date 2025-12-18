@@ -37,7 +37,7 @@ Team worker
 
 # Project and Test documentation
 
-Bug reports:
+Performed manual testing of AcademyBugs web application
 
 https://docs.google.com/document/d/1M2yrxsvJ71iS7uIC8QSq7EroRaqtc-u-rJcJxk1AWRY/edit?tab=t.0
 
