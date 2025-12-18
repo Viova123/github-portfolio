@@ -59,16 +59,11 @@ QA Foundation/Practice by SamaSobiTester - 09/2025 to 11/2025
 Medical nurse, Chernivtsy Medical College - 06/2014
 
 # Favourite blogs, Youtube channels about testing
-
-https://www.youtube.com/@samasobitester
+https://www.youtube.com/@vdespa
 
 https://www.youtube.com/results?search_query=test+io+community
 
-https://www.youtube.com/results?search_query=popeliuha
-
-https://www.youtube.com/@Farisey
-
-https://www.youtube.com/@osinna
+https://www.youtube.com/@samasobitester
 
 
 
