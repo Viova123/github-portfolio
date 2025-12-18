@@ -48,12 +48,15 @@ https://docs.google.com/document/d/11Xh0TvfeLiP6S2w770TmzQv_YColYZSykv6AnEdH40g/
 Conducted manual testing of web applications on crowdtesting platforms Test.io and uTest, covering large-scale e-commerce applications, hospitality, service platforms and travel-related applications. Worked with provided test cases, executing them accurately  and reporting results. Prepared detailed bug reports with clear steps to reproduce and supporting evidence, including screenshots and videos, applying sensitive data masking/blur where necessary.
 
 
-
+Book testing
 https://docs.google.com/document/d/1-dyrEZzjKIhZyhzShILwvxmn9-E0IiDCo6wazPyk8t0/edit?tab=t.0#heading=h.c84c3cpqupu3
 
 # Education and courses
+Business Management, London Metropolitan University - 11/2025 - Present
 
-QA Foundation/Practice by SamaSobiTester - 09.2025 to 11.2025
+QA Foundation/Practice by SamaSobiTester - 09/2025 to 11/2025
+
+Medical nurse, Chernivtsy Medical College - 06/2014
 
 # Favourite blogs, Youtube channels about testing
 
