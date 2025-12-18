@@ -5,9 +5,11 @@ My goal is to grow as a professional QA Engineer, that is why I level up my know
 # Tools used in testing:
 Chrome Dev Tools
 
-Jira - Bug Tracker
+Jira, Confluence
 
-Postman - API Testing
+Postman, Swagger
+
+Git, GitHub
 
 # Tech Skills
 Testing web application
