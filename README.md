@@ -14,7 +14,11 @@ Git, GitHub
 # Tech Skills
 Testing web application
 
-Manual testing - functional, non-functional, exploratory, integration. Test case/Checklist creation. Bug Reporting/Tracking (Jira)
+Manual testing - functional, non-functional, exploratory, integration. 
+
+Test case/Checklist creation. 
+
+Bug Reporting/Tracking (Jira)
 
 Testing on Crowd testing platforms - uTest, Test IO
 
