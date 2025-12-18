@@ -1,8 +1,8 @@
 # PORTFOLIO
 # About me
 Junior QA Engineer transitioning from a medical nursing background, with strong attention to detail, accountability, and the ability to work under pressure. Currently studying Business Management at London Metropolitan University and developing QA skills through a mentoring program with hands-on practice.
-My goal is to grow as a professional QA Engineer, that is why I level up my knowledge in manual testing, test case and checklist creation, and writing clear test documentation. Experienced in bug reporting and tracking using Jira, with practical knowledge of API testing using Postman and Swagger. Fast learner, highly motivated, and committed to improving product quality and user experience.
-# Tools used in testing:
+My goal is to grow as a professional QA Engineer, that is why I level up my knowledge in manual testing, test case and checklist creation, and writing clear test documentation. Experienced in bug reporting and tracking using Jira, with practical knowledge of API testing using Postman and Swagger. Fast learner, highly motivated, and committed to improving product quality and user experience
+# Tools used in testing
 Chrome Dev Tools
 
 Jira, Confluence
@@ -14,9 +14,9 @@ Git, GitHub
 # Tech Skills
 Testing web application
 
-Manual testing - functional, non-functional, exploratory, integration. 
+Manual testing - functional, non-functional, exploratory, integration
 
-Test case/Checklist creation. 
+Test case/Checklist creation
 
 Bug Reporting/Tracking (Jira)
 
@@ -45,7 +45,7 @@ https://docs.google.com/document/d/11Xh0TvfeLiP6S2w770TmzQv_YColYZSykv6AnEdH40g/
 
 # Experience
 
-Conducted manual testing of web applications on crowdtesting platforms Test.io and uTest, covering large-scale e-commerce applications, hospitality, service platforms and travel-related applications. Worked with provided test cases, executing them accurately  and reporting results. Prepared detailed bug reports with clear steps to reproduce and supporting evidence, including screenshots and videos, applying sensitive data masking/blur where necessary.
+Conducted manual testing of web applications on crowdtesting platforms Test.io and uTest, covering large-scale e-commerce applications, hospitality, service platforms and travel-related applications. Worked with provided test cases, executing them accurately  and reporting results. Prepared detailed bug reports with clear steps to reproduce and supporting evidence, including screenshots and videos, applying sensitive data masking/blur where necessary
 
 
 Book testing
