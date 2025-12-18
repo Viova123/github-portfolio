@@ -45,7 +45,7 @@ https://docs.google.com/document/d/11Xh0TvfeLiP6S2w770TmzQv_YColYZSykv6AnEdH40g/
 
 # Experience
 
-Conducted manual testing of web applications on crowdtesting platforms Test.io and uTest, covering large-scale e-commerce applications, hospitality, service platforms and travel-related applications. Prepared detailed bug reports with clear steps to reproduce and supporting evidence, including screenshots and videos, applying sensitive data masking/blur where necessary.
+Conducted manual testing of web applications on crowdtesting platforms Test.io and uTest, covering large-scale e-commerce applications, hospitality, service platforms and travel-related applications. Worked with provided test cases, executing them accurately  and reporting results. Prepared detailed bug reports with clear steps to reproduce and supporting evidence, including screenshots and videos, applying sensitive data masking/blur where necessary.
 
 
 
