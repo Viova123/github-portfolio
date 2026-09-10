@@ -45,7 +45,7 @@ Statistics • Menu • Tables • Permissions • Promotions & coupons • Invo
 
 # Technical Skills
 Testing:
-Manual Testing • Functional Testing • Regression Testing • Smoke Testing • Sanity Testing • Exploratory Testing • UI Testing • Web Testing • Mobile Testing • iOS Testing • Basic Localization Testing • Basic Accessibility Testing
+Manual testing • Functional testing • Regression testing • Smoke testing • Sanity testing • Exploratory testing • UI testing • Web testing • Mobile testing • iOS testing • Basic localization testing • Basic accessibility testing
 
 API Testing:
 REST API Testing (Basic) • Postman • Swagger • HTTP Methods • HTTP Status Codes • Positive & Negative Testing • Request/Response Validation
