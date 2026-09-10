@@ -88,8 +88,11 @@ Test artifacts: Bug Reports • Steps to Reproduce • Expected vs. Actual Resul
 
 # Languages
 English - B2
+
 Ukrainian - Native
+
 Russian - C1
+
 Italian - C1
 
 
