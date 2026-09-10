@@ -1,29 +1,61 @@
 # Violeta Carp
 # About me
 I am a Junior QA Engineer with hands-on experience in manual software testing gained through a QA internship in a real FoodTech product environment. I have experience testing web, mobile, POS, kiosk, and restaurant management systems, with a focus on functional, regression, and exploratory testing. I enjoy investigating software behaviour, identifying issues, and understanding how different parts of a system work together. I am looking for an opportunity to continue growing as a QA Engineer and contribute to building reliable, user-friendly products
-# Tools used in testing
-Chrome Dev Tools
 
-Jira, Confluence
+# Professional Experience
+QA Intern  - BringIT Technologies
+FoodTech / Restaurant Ordering Ecosystem | Remote
+April 2026 – May 2026
+Performed manual testing across Web, mobile/iOS, POS, Kiosk, Digital Menu, Kitchen, Dashboard, and Management systems.
+* Executed structured checklists and test scenarios covering core functionality and end-to-end business workflows.
+* Tested order lifecycle, payments, refunds, coupons and promotions, delivery, pickup, dine-in, and future-order scenarios.
+* Verified integration between interconnected systems, including orders created via Web/mobile applications and processed through POS and Kitchen.
+* Performed functional, regression, smoke, sanity, exploratory, UI, basic localization, and accessibility testing.
+* Used Android Studio emulators for mobile, tablet, and kiosk testing.
+* Verified Hebrew and English localization across different interfaces.
+* Reviewed feature requirements with the QA team and participated in sprint activities and poker planning.
+* Collaborated with QA engineers, developers, and support teams using Slack.
+ 
+# Internship Project — FOODTECH ECOSYSTEM
+Web Application
+Order lifecycle • Products • Cart • Delivery • Responsive behaviour • Accessibility
 
-Postman, Swagger
+Mobile / iOS
+Products • Cart • Customer details • Payments • Coupons • Order tracking • Localization
 
-Git, GitHub
+POS
+Payments & invoices • Refunds • Order modification • Products & toppings • Future orders • Dine-in • Pickup & Delivery
 
-# Tech Skills
-Testing web application
+Kiosk
+Products & categories • Deals • Cart • Payments • POS integration • Accessibility
 
-Manual testing - functional, non-functional, exploratory, integration
+Kitchen
+Order management • Product availability • Notifications • Delivery/Courier workflows • Future orders
 
-Test case/Checklist creation
+Digital Menu
+Menu • Cart • Order creation • Payments • Themes
 
-Bug Reporting/Tracking (Jira)
+Management System
+Statistics • Menu • Tables • Permissions • Promotions & coupons • Invoices • Business settings
+* 
 
-Testing on Crowd testing platforms - uTest, Test IO
+# TECHNICAL SKILLS
+Testing:
+Manual Testing • Functional Testing • Regression Testing • Smoke Testing • Sanity Testing • Exploratory Testing • UI Testing • Web Testing • Mobile Testing • iOS Testing • Basic Localization Testing • Basic Accessibility Testing
 
-API Testing (Swagger, Postman)
+API Testing:
+REST API Testing (Basic) • Postman • Swagger • HTTP Methods • HTTP Status Codes • Positive & Negative Testing • Request/Response Validation
 
-# Soft Skills
+Test Documentation:
+Test Scenarios • Checklists • Bug Reports
+
+Tools:
+Asana • Jira • Slack • Android Studio • Chrome DevTools
+
+Methodologies:
+Agile / Scrum
+
+# Soft skills 
 Attention to detail
 
 Critical thinking
@@ -42,13 +74,6 @@ https://docs.google.com/document/d/1M2yrxsvJ71iS7uIC8QSq7EroRaqtc-u-rJcJxk1AWRY/
 
 https://docs.google.com/document/d/11Xh0TvfeLiP6S2w770TmzQv_YColYZSykv6AnEdH40g/edit?tab=t.0
 
-# Experience
-
-Conducted manual testing of web applications on crowdtesting platforms Test.io and uTest, covering large-scale e-commerce applications, hospitality, service platforms and travel-related applications. Worked with provided test cases, executing them accurately  and reporting results. Prepared detailed bug reports with clear steps to reproduce and supporting evidence, including screenshots and videos, applying sensitive data masking/blur where necessary
-
-
-Book testing
-https://docs.google.com/document/d/1-dyrEZzjKIhZyhzShILwvxmn9-E0IiDCo6wazPyk8t0/edit?tab=t.0#heading=h.c84c3cpqupu3
 
 # Education and courses
 Business Management, London Metropolitan University - 11/2025 - Present
