@@ -72,9 +72,9 @@ Team worker
 
 Performed manual testing of AcademyBugs and The Internet (Herokuapp) web applications
 
-https://docs.google.com/document/d/1M2yrxsvJ71iS7uIC8QSq7EroRaqtc-u-rJcJxk1AWRY/edit?tab=t.0
+https://docs.google.com/document/d/1M2yrxsvJ71iS7uIC8QSq7EroRaqtc-u-rJcJxk1AWRY/edit?usp=sharing
 
-https://docs.google.com/document/d/11Xh0TvfeLiP6S2w770TmzQv_YColYZSykv6AnEdH40g/edit?tab=t.0
+https://docs.google.com/document/d/11Xh0TvfeLiP6S2w770TmzQv_YColYZSykv6AnEdH40g/edit?usp=sharing
 
 
 # Education and courses
