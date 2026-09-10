@@ -1,7 +1,6 @@
 # Violeta Carp
 # About me
-Junior QA Engineer transitioning from a medical nursing background, with strong attention to detail, accountability, and the ability to work under pressure. Currently studying Business Management at London Metropolitan University and developing QA skills through a mentoring program with hands-on practice.
-My goal is to grow as a professional QA Engineer, that is why I level up my knowledge in manual testing, test case and checklist creation, and writing clear test documentation. Experienced in bug reporting and tracking using Jira, with practical knowledge of API testing using Postman and Swagger. Fast learner, highly motivated, and committed to improving product quality and user experience
+I am a Junior QA Engineer with hands-on experience in manual software testing gained through a QA internship in a real FoodTech product environment. I have experience testing web, mobile, POS, kiosk, and restaurant management systems, with a focus on functional, regression, and exploratory testing. I enjoy investigating software behaviour, identifying issues, and understanding how different parts of a system work together. I am looking for an opportunity to continue growing as a QA Engineer and contribute to building reliable, user-friendly products
 # Tools used in testing
 Chrome Dev Tools
 
