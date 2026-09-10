@@ -7,6 +7,7 @@ QA Intern  - BringIT Technologies
 
 FoodTech / Restaurant Ordering Ecosystem | Remote
 April 2026 – May 2026
+
 Performed manual testing across Web, mobile/iOS, POS, Kiosk, Digital Menu, Kitchen, Dashboard, and Management systems.
 * Executed structured checklists and test scenarios covering core functionality and end-to-end business workflows.
 * Tested order lifecycle, payments, refunds, coupons and promotions, delivery, pickup, dine-in, and future-order scenarios.
