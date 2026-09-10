@@ -66,7 +66,9 @@ Agile / Scrum
 Academy Bugs — Manual Web Testing Project
 
 Project type:  Educational / Portfolio Project
+
 Application:  E-commerce training website
+
 Testing:  Functional • Exploratory • UI • Negative Testing
 
 Performed manual testing of an e-commerce training application, identified functional and UI defects, and documented findings using structured bug reports.
