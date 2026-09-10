@@ -1,5 +1,5 @@
 # Violeta Carp
-# About me
+# About Me
 I am a Junior QA Engineer with hands-on experience in manual software testing gained through a QA internship in a real FoodTech product environment. I have experience testing web, mobile, POS, kiosk, and restaurant management systems, with a focus on functional, regression, and exploratory testing. I enjoy investigating software behaviour, identifying issues, and understanding how different parts of a system work together. I am looking for an opportunity to continue growing as a QA Engineer and contribute to building reliable, user-friendly products
 
 # Professional Experience
@@ -57,7 +57,7 @@ Asana • Jira • Slack • Android Studio • Chrome DevTools
 Methodologies:
 Agile / Scrum
 
-# Soft skills 
+# Soft Skills 
 Attention to detail
 
 Critical thinking
@@ -68,16 +68,14 @@ Adaptability
 
 Team worker
 
-# Project and Test documentation
+# QA Projects & Test Documentation
 
-Performed manual testing of AcademyBugs and The Internet (Herokuapp) web applications
 
 https://docs.google.com/document/d/1M2yrxsvJ71iS7uIC8QSq7EroRaqtc-u-rJcJxk1AWRY/edit?usp=sharing
 
-https://docs.google.com/document/d/11Xh0TvfeLiP6S2w770TmzQv_YColYZSykv6AnEdH40g/edit?usp=sharing
 
 
-# Education and courses
+# Education & Courses
 Business Management, London Metropolitan University - 11/2025 - Present
 
 QA Foundation/Practice by SamaSobiTester - 09/2025 to 11/2025
