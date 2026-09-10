@@ -65,9 +65,9 @@ Agile / Scrum
 
 Academy Bugs — Manual Web Testing Project
 
-Project type: Educational / Portfolio Project
-Application: E-commerce training website
-Testing: Functional • Exploratory • UI • Negative Testing
+Project type:  Educational / Portfolio Project
+Application:  E-commerce training website
+Testing:  Functional • Exploratory • UI • Negative Testing
 
 Performed manual testing of an e-commerce training application, identified functional and UI defects, and documented findings using structured bug reports.
 
@@ -78,14 +78,20 @@ Test artifacts: Bug Reports • Steps to Reproduce • Expected vs. Actual Resul
 
 
 # Education & Professional Development
-Business Management - London Metropolitan University
+  Business Management - London Metropolitan University
 November 2025 - Present
 
-QA Mentoring Program - SamaSobiTester
+  QA Mentoring Program - SamaSobiTester
 September 2025 - December 2025
 
-Medical nurse - Chernivtsi Medical College, Ukraine
+  Medical Nursing - Chernivtsi Medical College, Ukraine
 June 2014
+
+# Languages
+English - B2
+Ukrainian - Native
+Russian - C1
+Italian - C1
 
 
 
