@@ -41,7 +41,7 @@ Management System
 Statistics • Menu • Tables • Permissions • Promotions & coupons • Invoices • Business settings
 * 
 
-# TECHNICAL SKILLS
+# Technical Skills
 Testing:
 Manual Testing • Functional Testing • Regression Testing • Smoke Testing • Sanity Testing • Exploratory Testing • UI Testing • Web Testing • Mobile Testing • iOS Testing • Basic Localization Testing • Basic Accessibility Testing
 
