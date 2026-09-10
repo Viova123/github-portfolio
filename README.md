@@ -79,12 +79,15 @@ Test artifacts: Bug Reports • Steps to Reproduce • Expected vs. Actual Resul
 
 # Education & Professional Development
   Business Management - London Metropolitan University
+  
 November 2025 - Present
 
   QA Mentoring Program - SamaSobiTester
+  
 September 2025 - December 2025
 
   Medical Nursing - Chernivtsi Medical College, Ukraine
+  
 June 2014
 
 # Languages
