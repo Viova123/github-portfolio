@@ -44,19 +44,19 @@ Management System
 Statistics • Menu • Tables • Permissions • Promotions & coupons • Invoices • Business settings
 
 # Technical Skills
-Testing:
+*Testing:
 Manual Testing • Functional Testing • Regression Testing • Smoke Testing • Sanity Testing • Exploratory Testing • UI Testing • Web Testing • Mobile Testing • iOS Testing • Basic Localization Testing • Basic Accessibility Testing
 
-API Testing:
+*API Testing:
 REST API Testing (Basic) • Postman • Swagger • HTTP Methods • HTTP Status Codes • Positive & Negative Testing • Request/Response Validation
 
-Test Documentation:
+*Test Documentation:
 Test Scenarios • Checklists • Bug Reports
 
-Tools:
+*Tools:
 Asana • Jira • Slack • Android Studio • Chrome DevTools
 
-Methodologies:
+*Methodologies:
 Agile / Scrum
 
 
